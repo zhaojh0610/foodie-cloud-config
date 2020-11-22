@@ -1,0 +1,8 @@
+maridb:
+  url:  'jdbc:mysql://192.168.120.128:3306/foodie-shop-dev?useUnicode=true&characterEncoding=UTF-8&autoReconnect=true&serverTimezone=Asia/Shanghai'
+  password: '{cipher}63b2ec6d96e0d8c68b3ae9ea7540471c2d0db6177a936385fda8a198f08875b3'  
+
+# 功能开关
+userservice:
+  registration:
+    disabled: true
