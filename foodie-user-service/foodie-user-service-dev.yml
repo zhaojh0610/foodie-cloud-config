@@ -5,4 +5,4 @@ maridb:
 # 功能开关
 userservice:
   registration:
-    disabled: true
+    disabled: false
